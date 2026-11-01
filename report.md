@@ -8,26 +8,26 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 | # | Talmud claim | Citation (links to Bekiut) | Lewysohn (1858) | Verdict based on modern science |
 |---|---|---|---|---|
-| 1 | Bat: lays eggs, yet suckles | [Bekhorot 7b:20](https://bekiut.com/talmud/Bekhorot/7b#20) | [§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2016.): Right: bats do not lay eggs | **Partly true** |
-| 2 | Cat gestation: 52 days | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.): Calls it inexact; his own 55 d is also too short | **False (too short)** |
-| 3 | Pig gestation: 60 days | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.): Missed the error | **False** |
-| 4 | Large predators, elephant, apes: 3 years | [Bekhorot 8a:13](https://bekiut.com/talmud/Bekhorot/8a#13) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.): Right: erroneous, from Aristotle | **False** |
-| 5 | Livestock: 5, 9 and 12 months | [Bekhorot 8a:13](https://bekiut.com/talmud/Bekhorot/8a#13) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.): Right on livestock; wrong to reject the camel's 12 months | **True** |
-| 6 | No upper front teeth = ruminant with cloven hooves | [Chullin 59a:8–11](https://bekiut.com/talmud/Chullin/59a#8) | [§ 58](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2058.): Accepts it | **True (within livestock)** |
-| 7 | Hare (and hyrax) chew the cud | [Chullin 59a:10](https://bekiut.com/talmud/Chullin/59a#10) | [§ 141](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20141.): Wrong: says hares ruminate | **Partly true** |
-| 8 | Male hyena becomes a bat after 7 years | [Bava Kamma 16a:22](https://bekiut.com/talmud/Bava_Kamma/16a#22) | [§ 119](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20119.): Right: a fable; explains it via the hyena's anal pouch | **False** |
-| 9 | The ishut (mole) has no eyes | [Moed Katan 6b:14](https://bekiut.com/talmud/Moed_Katan/6b#14) | [§ 135](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20135.): Right: Syrian mole, eyes under the skin | **True** |
-| 10 | Telling mule from hinny | [Chullin 79a:11](https://bekiut.com/talmud/Chullin/79a#11) | [§ 168](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20168.): Repeats it without comment | **Mostly false** |
-| 11 | Hen: 21 days | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.): Right: means hatching, not egg formation | **True** |
-| 12 | Fox and "all sheratzim": 6 months | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 120](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20120.): Repeats it | **False** |
-| 13 | Snake 7 years, viper 70 years | [Bekhorot 8a:14](https://bekiut.com/talmud/Bekhorot/8a#14) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.): Right: false | **False** |
-| 14 | Mates by night, births by night (bat); by day (hen) | [Beitzah 7a:15](https://bekiut.com/talmud/Beitzah/7a#15) | [§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2016.): Accepts it | **Mostly false** |
-| 15 | Signs of a rabid dog | [Yoma 83b:18](https://bekiut.com/talmud/Yoma/83b#18) | [§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20122.): Repeats it; wrong cause for the open mouth | **Mostly true** |
-| 16 | Food stays in a dog's gut 3 days | [Shabbat 155b:11](https://bekiut.com/talmud/Shabbat/155b#11) | [§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20122.): Repeats it; his citation is wrong | **Mostly false** |
-| 17 | The cat covers its excrement | [Eruvin 100b:29](https://bekiut.com/talmud/Eruvin/100b#29) | [§ 118](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20118.): Accepts it; adds Pliny's reason | **True** |
-| 18 | Goats lead; camel's short tail; ox's long tail | [Shabbat 77b:8](https://bekiut.com/talmud/Shabbat/77b#8) | [§ 52](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2052.): Accepts it | **Mostly true** |
-| 19 | The hen's lower eyelid closes upward | [Shabbat 77b:9](https://bekiut.com/talmud/Shabbat/77b#9) | [§ 46](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2046.): Right; widens it to other birds | **True** |
-| 20 | Fish, snake and pig get stronger with age | [Shabbat 77b:11](https://bekiut.com/talmud/Shabbat/77b#11) | [§ 41](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2041.): Repeats it | **Partly true** |
+| 1 | Bat: lays eggs, yet suckles | [Bekhorot 7b:20](https://bekiut.com/talmud/Bekhorot/7b#20) | [§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s16): Right: bats do not lay eggs | **Partly true** |
+| 2 | Cat gestation: 52 days | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17): Calls it inexact; his own 55 d is also too short | **False (too short)** |
+| 3 | Pig gestation: 60 days | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17): Missed the error | **False** |
+| 4 | Large predators, elephant, apes: 3 years | [Bekhorot 8a:13](https://bekiut.com/talmud/Bekhorot/8a#13) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17): Right: erroneous, from Aristotle | **False** |
+| 5 | Livestock: 5, 9 and 12 months | [Bekhorot 8a:13](https://bekiut.com/talmud/Bekhorot/8a#13) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17): Right on livestock; wrong to reject the camel's 12 months | **True** |
+| 6 | No upper front teeth = ruminant with cloven hooves | [Chullin 59a:8–11](https://bekiut.com/talmud/Chullin/59a#8) | [§ 58](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s58): Accepts it | **True (within livestock)** |
+| 7 | Hare (and hyrax) chew the cud | [Chullin 59a:10](https://bekiut.com/talmud/Chullin/59a#10) | [§ 141](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s141): Wrong: says hares ruminate | **Partly true** |
+| 8 | Male hyena becomes a bat after 7 years | [Bava Kamma 16a:22](https://bekiut.com/talmud/Bava_Kamma/16a#22) | [§ 119](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s119): Right: a fable; explains it via the hyena's anal pouch | **False** |
+| 9 | The ishut (mole) has no eyes | [Moed Katan 6b:14](https://bekiut.com/talmud/Moed_Katan/6b#14) | [§ 135](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s135): Right: Syrian mole, eyes under the skin | **True** |
+| 10 | Telling mule from hinny | [Chullin 79a:11](https://bekiut.com/talmud/Chullin/79a#11) | [§ 168](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s168): Repeats it without comment | **Mostly false** |
+| 11 | Hen: 21 days | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17): Right: means hatching, not egg formation | **True** |
+| 12 | Fox and "all sheratzim": 6 months | [Bekhorot 8a:12](https://bekiut.com/talmud/Bekhorot/8a#12) | [§ 120](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s120): Repeats it | **False** |
+| 13 | Snake 7 years, viper 70 years | [Bekhorot 8a:14](https://bekiut.com/talmud/Bekhorot/8a#14) | [§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17): Right: false | **False** |
+| 14 | Mates by night, births by night (bat); by day (hen) | [Beitzah 7a:15](https://bekiut.com/talmud/Beitzah/7a#15) | [§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s16): Accepts it | **Mostly false** |
+| 15 | Signs of a rabid dog | [Yoma 83b:18](https://bekiut.com/talmud/Yoma/83b#18) | [§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s122): Repeats it; wrong cause for the open mouth | **Mostly true** |
+| 16 | Food stays in a dog's gut 3 days | [Shabbat 155b:11](https://bekiut.com/talmud/Shabbat/155b#11) | [§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s122): Repeats it; his citation is wrong | **Mostly false** |
+| 17 | The cat covers its excrement | [Eruvin 100b:29](https://bekiut.com/talmud/Eruvin/100b#29) | [§ 118](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s118): Accepts it; adds Pliny's reason | **True** |
+| 18 | Goats lead; camel's short tail; ox's long tail | [Shabbat 77b:8](https://bekiut.com/talmud/Shabbat/77b#8) | [§ 52](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s52): Accepts it | **Mostly true** |
+| 19 | The hen's lower eyelid closes upward | [Shabbat 77b:9](https://bekiut.com/talmud/Shabbat/77b#9) | [§ 46](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s46): Right; widens it to other birds | **True** |
+| 20 | Fish, snake and pig get stronger with age | [Shabbat 77b:11](https://bekiut.com/talmud/Shabbat/77b#11) | [§ 41](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s41): Repeats it | **Partly true** |
 
 ## Claims
 
@@ -41,7 +41,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Every animal that bears live young suckles them; every egg-layer gathers food for its young; the exception is the bat, which lays eggs and yet suckles.
 
-**Lewysohn (1858)** ([§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2016.)): §§ 16 and 136 (pp. 9, 104): calls the egg-laying claim false and "striking"; says the Talmud followed Scripture, which lists the bat among birds. He also limits the first half: some insects and the viper bear live young but do not suckle.
+**Lewysohn (1858)** ([§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s16)): §§ 16 and 136 (pp. 9, 104): calls the egg-laying claim false and "striking"; says the Talmud followed Scripture, which lists the bat among birds. He also limits the first half: some insects and the viper bear live young but do not suckle.
 
 **Current zoology:** All bats (order Chiroptera, about 1,400 species) are placental mammals. They are viviparous and suckle with mammary glands. No bat lays eggs. The only egg-laying mammals are the monotremes (platypus, echidnas), which also produce milk. The rule "live-bearer suckles" is also false outside mammals: many sharks, snakes (vipers) and some insects bear live young without milk.
 
@@ -57,7 +57,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** A cat gives birth after 52 days (in the same list: a dog after 50 days).
 
-**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.)): §§ 17, 118 (pp. 10, 75–76): "inexact", because the cat carries 55 days (Voigt); at § 118 he calls 52 days "fairly accurate".
+**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17)): §§ 17, 118 (pp. 10, 75–76): "inexact", because the cat carries 55 days (Voigt); at § 118 he calls 52 days "fairly accurate".
 
 **Current zoology:** Domestic cat gestation averages about 65 days (studies: 65.1 d in 1,056 UK pedigree litters; 65.3 d, range 57–72; 66.9 d in a research colony). 52 days is at the extreme low edge of reported ranges and is about 13 days short of the mean. The dog figure (50 days) is also short: dogs average about 63 days from ovulation (roughly 57–72 days from mating).
 
@@ -73,7 +73,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** A pig gives birth after 60 days.
 
-**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.)): §§ 17, 170 (pp. 10, 147): repeats the figure; no correction.
+**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17)): §§ 17, 170 (pp. 10, 147): repeats the figure; no correction.
 
 **Current zoology:** Domestic pig (Sus scrofa domesticus) gestation is about 114 days (the farmers' rule "3 months, 3 weeks, 3 days"); large commercial herds now average up to about 117 days.
 
@@ -89,7 +89,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** The wolf, lion, bear, leopard, bardelas (hyena?), elephant, monkey and kipof (long-tailed ape) give birth after three years.
 
-**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.)): § 17 (pp. 10–11) and at each animal: "erroneous"; traces the figure to Aristotle (elephant 18 months to 3 years) and to popular belief, because these animals' mating is rarely seen.
+**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17)): § 17 (pp. 10–11) and at each animal: "erroneous"; traces the figure to Aristotle (elephant 18 months to 3 years) and to popular belief, because these animals' mating is rarely seen.
 
 **Current zoology:** Wolf about 63 days; lion about 108–110 days; leopard about 90–105 days; brown bear about 7 months from mating, because the embryo rests for 4–5 months before implantation (active gestation about 56 days); spotted hyena about 110 days, striped hyena about 90 days; African elephant about 22 months (the longest of any living mammal); macaques about 5.5 months. None reaches three years.
 
@@ -105,7 +105,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Small kosher livestock (sheep, goats) give birth after 5 months; large kosher livestock (cattle) after 9 months; large non-kosher livestock (donkey, camel, horse) after 12 months.
 
-**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.)): § 17 (p. 11): correct for domestic animals whose mating is watched; agrees with Aristotle (sheep and goat 5 months, mare 11–12 months). But he says the 12-month rule "cannot apply to the camel", which Aristotle says carries five months.
+**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17)): § 17 (p. 11): correct for domestic animals whose mating is watched; agrees with Aristotle (sheep and goat 5 months, mare 11–12 months). But he says the 12-month rule "cannot apply to the camel", which Aristotle says carries five months.
 
 **Current zoology:** Sheep about 147 days and goat about 150 days (= 5 months). Cattle about 283 days (= 9.3 months). Horse about 340 days (11 months), donkey about 365–375 days (12 months), dromedary camel about 375–390 days (12–13 months).
 
@@ -121,7 +121,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Any animal that chews the cud has no upper front teeth; and any animal without upper front teeth chews the cud and has cloven hooves (so Rav Hisda can check a hoof-less carcass by its mouth). The exception is the camel, which has canine-like upper teeth (and the young camel, which does not have them yet).
 
-**Lewysohn (1858)** ([§ 58](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2058.)): § 58 (p. 35) and § 163 (p. 135): repeats the rule and the camel exception; explains the camel's "teeth" as dental papillae or gums (Rashi).
+**Lewysohn (1858)** ([§ 58](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s58)): § 58 (p. 35) and § 163 (p. 135): repeats the rule and the camel exception; explains the camel's "teeth" as dental papillae or gums (Rashi).
 
 **Current zoology:** Correct for the domain the Talmud means (hoofed livestock). All living true ruminants (suborder Ruminantia: cattle, sheep, goats, deer, antelopes, giraffes) have no upper incisors; a horny dental pad replaces them. Camelids (Tylopoda) chew the cud but are not true ruminants; adults keep one pair of upper incisors (I3), which are cone-shaped and canine-like, plus true upper canines. So the camel exception is anatomically exact. The 'young camel' point is weaker: dental surveys give deciduous upper incisors that erupt within the first weeks or months. Outside livestock the rule fails (sloths, anteaters, pangolins and baleen whales also lack upper incisors), but the Talmud limits it to behema.
 
@@ -137,7 +137,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** The hyrax (shafan) and the hare (arnevet) chew the cud, yet have upper front teeth.
 
-**Lewysohn (1858)** ([§ 141](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20141.)): §§ 141–142 (pp. 109–111): the hare has upper teeth (true) and "rumination in hares undoubtedly takes place"; rejects Buffon's doubt.
+**Lewysohn (1858)** ([§ 141](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s141)): §§ 141–142 (pp. 109–111): the hare has upper teeth (true) and "rumination in hares undoubtedly takes place"; rejects Buffon's doubt.
 
 **Current zoology:** Upper teeth: true. Hares and rabbits have two pairs of upper incisors (the second, small 'peg teeth' behind the first), which is why they are called Lagomorpha, not rodents. Cud-chewing: false in the technical sense. Lagomorphs are hindgut fermenters with one simple stomach. They practise caecotrophy: they eat soft faecal pellets (caecotropes) from the anus, mostly at night. This is sometimes called 'pseudo-rumination', but no food is regurgitated. Hyraxes also do not regurgitate; their jaw movement while resting looks like chewing.
 
@@ -153,7 +153,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** A male hyena after seven years becomes an atalef (bat); the bat after seven years an arpad; then a thistle, a briar, and finally a demon.
 
-**Lewysohn (1858)** ([§ 119](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20119.)): § 119 (pp. 76–77): a "fable" from the ancient belief that the hyena changes its sex (Pliny, Aelian; Aristotle denied it). He reads it as an ethical allegory. He explains the belief by Aristotle's note on a pouch under the tail that looks like a vulva.
+**Lewysohn (1858)** ([§ 119](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s119)): § 119 (pp. 76–77): a "fable" from the ancient belief that the hyena changes its sex (Pliny, Aelian; Aristotle denied it). He reads it as an ethical allegory. He explains the belief by Aristotle's note on a pouch under the tail that looks like a vulva.
 
 **Current zoology:** False. Hyenas do not change sex or species. All four species (spotted, striped, brown hyena, aardwolf) are gonochoristic: each animal is male or female for life. The sex-change myth has two real sources: the female spotted hyena (Crocuta crocuta) has a pseudo-penis and pseudo-scrotum, so the sexes look alike; and the striped hyena (Hyaena hyaena, the species of the Levant and Mesopotamia) has a large anal (subcaudal) scent pouch that it everts, which is what Aristotle described. Bats, plants and hyenas are of course separate lineages.
 
@@ -169,7 +169,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Rav Yehuda: the ishut, a field pest that people may trap on the intermediate festival days, is "a creature that has no eyes" (with Psalm 58:9, "has not seen the sun").
 
-**Lewysohn (1858)** ([§ 135](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20135.)): § 135 (pp. 101–102): the Syrian mole, which has no visible eyes; Aristotle found imperfect eyes under the skin. He separates it from the European mole.
+**Lewysohn (1858)** ([§ 135](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s135)): § 135 (pp. 101–102): the Syrian mole, which has no visible eyes; Aristotle found imperfect eyes under the skin. He separates it from the European mole.
 
 **Current zoology:** True for the animal of the region. The Middle Eastern blind mole-rat (Spalax / Nannospalax ehrenbergi complex, a rodent, not a true mole) has tiny eyes (under 1 mm) completely covered by skin and fur, with no external opening. It is behaviourally blind: no image vision. The buried eye still senses light and sets the circadian and seasonal rhythm. It is exactly the root- and tuber-eating field pest the Mishnah describes. (True moles, Talpidae, do not live in Israel; European moles have small but visible, functional eyes.)
 
@@ -185,7 +185,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Abaye: a deep voice means the dam was a donkey (= hinny); a shrill voice means the dam was a mare (= mule). Rav Pappa: large ears and a small tail mean a donkey dam (hinny); small ears and a large tail mean a mare dam (mule).
 
-**Lewysohn (1858)** ([§ 168](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20168.)): § 168 (p. 144): repeats it without comment: the hinny has "a coarser voice, longer ears and a shorter tail".
+**Lewysohn (1858)** ([§ 168](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s168)): § 168 (p. 144): repeats it without comment: the hinny has "a coarser voice, longer ears and a shorter tail".
 
 **Current zoology:** Mostly the reverse of current descriptions. Breed societies and equine charities say the hinny (horse sire, donkey dam) usually has shorter ears and a more horse-like head, and the mule (donkey sire, mare dam) longer, donkey-like ears; that is, ear length follows the sire more than the dam. Tail descriptions disagree between sources. Voice is not a reliable sign: both usually bray, often with a whinny mixed in. Experts also say appearance alone cannot identify a mule or hinny with confidence; only pedigree or DNA can. The Gemara itself notes cases (a mute animal with docked ears and tail) where the signs fail.
 
@@ -201,7 +201,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** The hen (gives birth) at 21 days.
 
-**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.)): § 17 (pp. 9–10): rejects Rashi (21 days of egg formation inside the hen); the Talmud means the hatching of the chicks on the 20th or 21st day. He says the egg itself is mostly formed within 10 days (Aristotle).
+**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17)): § 17 (pp. 9–10): rejects Rashi (21 days of egg formation inside the hen); the Talmud means the hatching of the chicks on the 20th or 21st day. He says the egg itself is mostly formed within 10 days (Aristotle).
 
 **Current zoology:** Chicken eggs hatch after 21 days of incubation (range about 20–22 days, with temperature). Rashi's reading is wrong: the egg passes through the oviduct in about 24–26 hours; before that the yolk grows in the ovary for about 7–10 days, which matches Lewysohn's (Aristotle's) '10 days'.
 
@@ -217,7 +217,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** The fox and all kinds of sheratzim (small creatures) give birth after six months.
 
-**Lewysohn (1858)** ([§ 120](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20120.)): §§ 17, 120 (pp. 10, 78): repeats it; takes sheratzim here as small predators (weasel, marten).
+**Lewysohn (1858)** ([§ 120](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s120)): §§ 17, 120 (pp. 10, 78): repeats it; takes sheratzim here as small predators (weasel, marten).
 
 **Current zoology:** Red fox gestation is about 52 days (49–58), not 6 months. For Lewysohn's weasel group the answer is mixed: the least weasel carries about 35 days, but the stoat has delayed implantation, so the time from mating to birth is up to about 9–11 months (active fetal growth 3–4 weeks); martens also have delayed implantation. No species fits 6 months as a rule.
 
@@ -233,7 +233,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** The efeh (viper) gives birth after 70 years; the snake after 7 years.
 
-**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2017.)): § 17 (p. 10): among "the latter false ones"; traces them to Aristotle's errors and to lack of observation.
+**Lewysohn (1858)** ([§ 17](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s17)): § 17 (p. 10): among "the latter false ones"; traces them to Aristotle's errors and to lack of observation.
 
 **Current zoology:** Egg-laying snakes incubate their eggs for about 1.5–3 months. Live-bearing vipers such as the adder carry about 4.5 months. In cold climates many female adders breed only every second or third year, but no snake has a gestation of years. Snakes reach maturity in about 2–5 years.
 
@@ -249,7 +249,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Any species that mates by day gives birth by day (the hen); any species that mates by night gives birth by night (the bat); a species that mates by day or night (man) gives birth by day or night.
 
-**Lewysohn (1858)** ([§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2016.)): §§ 16, 136 (pp. 9, 103): states it as a rule for nocturnal and diurnal animals; repeats it for the bat.
+**Lewysohn (1858)** ([§ 16](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s16)): §§ 16, 136 (pp. 9, 103): states it as a rule for nocturnal and diurnal animals; repeats it for the bat.
 
 **Current zoology:** Hen: true. Hens lay in daylight, mostly in the morning. Bat: probably false. Bats give birth in the roost, where they spend the day; direct records (captive pipistrelles, big brown bats) put births in daytime. Many temperate bats also mate in autumn and winter roosts, partly by day, with sperm storage until spring. As a rule the link is false: the timing of birth does not follow the timing of mating. The mare, a day-active animal, foals at night in about 80% of cases.
 
@@ -265,7 +265,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Five signs of a mad dog: its mouth is open, its saliva drips, its ears droop, its tail rests on its thighs, it walks at the edges of roads. Some say it also barks with no sound heard.
 
-**Lewysohn (1858)** ([§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20122.)): §§ 38, 122 (pp. 24, 85): repeats all the signs; explains the open mouth by "swelling" of the mouth muscles.
+**Lewysohn (1858)** ([§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s122)): §§ 38, 122 (pp. 24, 85): repeats all the signs; explains the open mouth by "swelling" of the mouth muscles.
 
 **Current zoology:** Mostly correct for canine rabies. In 'dumb' (paralytic) rabies the jaw muscles are paralysed, so the jaw hangs open; paralysis of the throat stops swallowing, so saliva drips; paralysis of the larynx makes the bark hoarse or silent. Restless wandering is typical. Drooping ears and a tucked tail are general signs of a sick or fearful dog, not specific to rabies. Lewysohn's cause (swelling) is wrong: it is paralysis.
 
@@ -281,7 +281,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** God knows the dog's food is scarce, so its food stays in its intestines three days (with the Mishnah: food stays undigested in a dog three full days).
 
-**Lewysohn (1858)** ([§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20122.)): § 122 (p. 83): repeats it, but cites "B. batra 8a"; the Sefaria text of Bava Batra 8a does not have it.
+**Lewysohn (1858)** ([§ 122](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s122)): § 122 (p. 83): repeats it, but cites "B. batra 8a"; the Sefaria text of Bava Batra 8a does not have it.
 
 **Current zoology:** In healthy dogs the stomach empties in about 7–15 hours (capsule studies) and total gut transit is about 1–2.5 days. Undigested bone can stay longer. Three days is at or beyond the upper end, and food is not 'undigested' for that time.
 
@@ -297,7 +297,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** We would learn modesty from the cat (which covers its excrement), honesty from the ant, fidelity from the dove, and courtship from the rooster.
 
-**Lewysohn (1858)** ([§ 118](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#:~:text=%C2%A7.%20118.)): §§ 118, 137 (pp. 75, 106): reports it; adds Pliny's reason: the cat hides the smell so that mice are not driven away.
+**Lewysohn (1858)** ([§ 118](https://ezrabrand.github.io/lewysohn-zoologie/mammals.html#s118)): §§ 118, 137 (pp. 75, 106): reports it; adds Pliny's reason: the cat hides the smell so that mice are not driven away.
 
 **Current zoology:** True as behaviour. Domestic cats and their wild ancestor (Felis lybica) usually bury faeces near their home area. Far from home, at territory edges, they often leave them uncovered as scent marks. The reason is scent control, not modesty; Pliny's 'not to scare the mice' is not supported.
 
@@ -313,7 +313,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Goats walk at the head of the flock and the ewes follow. The camel's tail is short because it eats thorns. The ox's tail is long because it lives in marshes and must drive away gnats.
 
-**Lewysohn (1858)** ([§ 52](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2052.)): §§ 52, 155, 160 (pp. 32, 124, 130): repeats all three; gives the goats' lead to their courage.
+**Lewysohn (1858)** ([§ 52](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s52)): §§ 52, 155, 160 (pp. 32, 124, 130): repeats all three; gives the goats' lead to their courage.
 
 **Current zoology:** Goats leading: true. In mixed flocks goats are bolder and more exploratory, and shepherds use them as leaders. Ox tail: true as a function. Cattle use tail switching as their main defence against biting flies. Camel tail: the tail is fairly short (about 50 cm) and the camel does browse on thorny shrubs, but 'so that it does not catch in thorns' is an untested just-so explanation.
 
@@ -329,7 +329,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** The hen's lower eyelid rises over the upper one, because it lives on rafters and smoke would otherwise blind it.
 
-**Lewysohn (1858)** ([§ 46](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2046.)): §§ 46, 79 (pp. 29, 47): repeats it and widens it to "all heavy land birds".
+**Lewysohn (1858)** ([§ 46](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s46)): §§ 46, 79 (pp. 29, 47): repeats it and widens it to "all heavy land birds".
 
 **Current zoology:** True. In chickens and most birds the lower eyelid is the larger, more mobile one and closes the eye by moving up (owls are an exception). Birds also have a nictitating membrane that sweeps across the eye. The smoke reason is a just-so explanation; the trait is general to birds.
 
@@ -345,7 +345,7 @@ Talmud text: Sefaria public export (`gs://sefaria-export`, export of 2026-11-01)
 
 **Talmud claim:** Three creatures gain strength as they grow old: the fish, the snake and the pig.
 
-**Lewysohn (1858)** ([§ 41](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#:~:text=%C2%A7.%2041.)): §§ 41, 170 (pp. 26, 147): repeats it; adds (Avodah Zarah 30b) that old snakes have weaker venom.
+**Lewysohn (1858)** ([§ 41](https://ezrabrand.github.io/lewysohn-zoologie/part1.html#s41)): §§ 41, 170 (pp. 26, 147): repeats it; adds (Avodah Zarah 30b) that old snakes have weaker venom.
 
 **Current zoology:** Fish and snakes: largely true. Both have indeterminate growth: they keep growing after maturity, so old individuals are larger and, in fish, much more fertile (big old females produce far more eggs). Some fish species show almost no ageing. Pig: partly true. Pigs keep gaining weight for several years, and a boar's tusks grow all its life, so an old boar is more dangerous. But pigs do age and decline; they do not have indeterminate growth.
 

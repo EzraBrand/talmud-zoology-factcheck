@@ -40,9 +40,8 @@ Work in progress: small batches of claims, each checked by hand.
 - **Citations** use Sefaria's segment numbers (`Bekhorot 8a:13`) and link to
   [Bekiut](https://bekiut.com/), which uses the same numbering (`bekiut.com/talmud/Bekhorot/8a#13`).
   Each claim also links to the text on Sefaria.
-- **Lewysohn** is cited by § and page of the 1858 edition. The links go to the English reading edition;
-  it has no § anchors, so they use a text fragment (`#:~:text=§. 119.`), which works in Chrome, Edge and
-  Safari.
+- **Lewysohn** is cited by § and page of the 1858 edition. The links go to the § anchors of the English
+  reading edition (`mammals.html#s119` for § 119).
 
 ## Method
 

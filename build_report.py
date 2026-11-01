@@ -66,8 +66,7 @@ export = (ROOT / "data" / "sefaria_export_date.txt").read_text(encoding="utf-8")
 for c in claims:
     c["he"], c["en"] = text(c["ref"])
     c["bekiut"], c["sefaria"] = bekiut_url(c["ref"]), sefaria_url(c["ref"])
-    # The reading edition has no § anchors; a text fragment scrolls to the § heading.
-    c["lew_url"] = f"{EDITION}/{c['lewysohn_page']}.html#:~:text=%C2%A7.%20{c['lewysohn_par']}."
+    c["lew_url"] = f"{EDITION}/{c['lewysohn_page']}.html#s{c['lewysohn_par']}"  # the edition's § anchor
     c["lew_label"] = f"§ {c['lewysohn_par']}"
 
 TITLE = f"Talmud zoology fact-check: claims 1–{len(claims)}"
