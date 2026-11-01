@@ -17,6 +17,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 ROOT = Path(__file__).parent
 SEF = ROOT / "data" / "sefaria"
 EDITION = "https://ezrabrand.github.io/lewysohn-zoologie"
+REPO = "https://github.com/EzraBrand/talmud-zoology-factcheck"
 BUILT = date.today().strftime("%d-%b-%Y")
 
 COL_CLAIM = "Talmud claim"
@@ -183,8 +184,12 @@ blockquote {{ margin:10px 0; padding:8px 14px; border-left:3px solid var(--line)
 dt {{ font:600 .78rem system-ui, sans-serif; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); margin-top:.7em; }}
 dd {{ margin:.15em 0 0; }}
 ul.src li {{ margin:.3em 0; }}
+.top {{ display:flex; flex-wrap:wrap; gap:4px 16px; justify-content:space-between; font:.85rem system-ui, sans-serif; color:var(--muted); }}
+footer {{ margin-top:3em; padding-top:1em; border-top:1px solid var(--line); color:var(--muted); font-size:.85rem; }}
 </style></head>
 <body><main>
+<div class="top"><span>Companion to <a href="{EDITION}/">Lewysohn, <em>Zoologie des Talmuds</em>: reading edition</a></span>
+<a href="{REPO}">Code and data on GitHub</a></div>
 <h1>{e(TITLE)}</h1>
 <p>{intro_html}</p>
 <p class="small">{textnote_html}</p>
@@ -199,6 +204,9 @@ ul.src li {{ margin:.3em 0; }}
 {cards}
 <h2>Sources for the modern data</h2>
 <ul class="src">{''.join(f'<li>{md_links(s)}</li>' for s in sources)}</ul>
+<footer>Code, data and method: <a href="{REPO}">{REPO.split("//")[1]}</a> ·
+Fact-check text and code: <a href="{REPO}/blob/main/LICENSE">MIT License</a> ·
+Talmud quotes: William Davidson Talmud, <a href="https://www.sefaria.org/">Sefaria</a>, CC BY-NC.</footer>
 </main></body></html>
 """
 (ROOT / "docs").mkdir(exist_ok=True)
